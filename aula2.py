@@ -5,4 +5,4 @@
 # Sempre ler as mensagens de erros o python é bem didatico em questões de apresentar erros.
 print(12, 34, sep=" ", end='\n')
 print(56, 78, sep='//', end='___final_alterado \n')
-print(1234, 7345, sep='///')
+print(1234, 7345, sep='///', end='testando \n')
